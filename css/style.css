@@ -1,0 +1,29 @@
+body {
+	background-image: url(../img/fruitsandvegetables.jpg);
+	color: #000;
+}
+h2 {
+	color: #666;
+}
+ul{
+	list-style-type: square;
+	width: 30%;
+	padding: 10px;
+	margin: auto;
+}
+.contenedor{
+	background: #DCDCDC;
+	opacity: 0.7;
+	width: 50%;
+	height: 100%;
+	text-align: center;
+	padding: 20px;
+	margin: auto;
+	border-radius:20px; 
+	-moz-border-radius:10px; /* Firefox */ 
+	-webkit-border-radius:10px; /* Safari y Chrome */ 
+}
+.destacado{
+	color: #20B2AA;
+	font-weight: bold;
+}
